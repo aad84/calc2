@@ -1,30 +1,40 @@
-""" Calculator homework"""
-# Ayush Deshpande
-
+""" A collection of calculator functions """
 class Calculator:
-    """ Calculator Class"""
+    """ This class is a collection of calculator functions """
     result = 0
-    def __init__(self):
-        pass
+    # Addition of two numbers
+    def add(self, num1_a, num2_b):
+        """ Function to add two numbers """
+        self.num_a =  num1_a
+        self.result = self.num_a + num2_b
+        return self.result
 
-    def get_result(self):
-        """ Get Result """
+    # Subtraction of two numbers
+    def subtract(self, num1_a, num2_b):
+        """ Function to subtract two numbers """
+        self.num_a = num1_a
+        self.result = self.num_a - num2_b
         return self.result
-    def add_number(self, value_a:float):
-        """ Add """
-        self.result = self.result + value_a
+
+    # Multiplication of two numbers
+    def multiply(self, num1_a, num2_b):
+        """ Function to multiply two numbers """
+        self.num_a = num1_a
+        self.result = self.num_a * num2_b
         return self.result
-    def subtract_number(self, value_a:float):
-        """ Subtract """
-        self.result = self.result - value_a
+
+    # Division of numbers and exception for division by 0
+    def divide(self, num1_a, num2_b):
+        """ Function to divide two numbers """
+        self.num_a = num1_a
+        if num2_b <= 0:
+            return "Error: A number cannot be divided by 0"
+        self.result = self.num_a / num2_b
         return self.result
-    def multiply_numbers(self, value_a:float, value_b:float):
-        """ Multiply """
-        self.result = value_a * value_b
+
+    # Increment a number by 1
+    def increment(self, num1_a):
+        """ Function to increment a number by 1 """
+        self.num_a = num1_a
+        self.result = self.num_a + 1
         return self.result
-    def division_numbers(self, value_a:float, value_b:float):
-        """ Division """
-        # if value_b == 0:
-        #     raise Exception(ZeroDivisionError)
-        self.result = round(value_a / value_b, 9)
-        return  self.result

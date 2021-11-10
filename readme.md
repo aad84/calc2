@@ -7,5 +7,5 @@
 
 
 
-Travis Screenshot
+Travis CI Screenshot
 ![TwX1Z34snvahxdK](https://i.loli.net/2021/11/06/TwX1Z34snvahxdK.png)

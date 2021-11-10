@@ -1,40 +1,27 @@
-""" A collection of calculator functions """
+""" This is the increment function"""
 class Calculator:
-    """ This class is a collection of calculator functions """
+    """ This is the Calculator class"""
+
     result = 0
-    # Addition of two numbers
-    def add(self, num1_a, num2_b):
-        """ Function to add two numbers """
-        self.num_a =  num1_a
-        self.result = self.num_a + num2_b
+    def get_result(self):
+        """ Get Result of Calculation"""
         return self.result
 
-    # Subtraction of two numbers
-    def subtract(self, num1_a, num2_b):
-        """ Function to subtract two numbers """
-        self.num_a = num1_a
-        self.result = self.num_a - num2_b
+    def add_number(self, value_a):
+        """ adds number to result"""
+        self.result = self.result + value_a
         return self.result
-
-    # Multiplication of two numbers
-    def multiply(self, num1_a, num2_b):
-        """ Function to multiply two numbers """
-        self.num_a = num1_a
-        self.result = self.num_a * num2_b
+    def subtract_number(self, value_a):
+        """ subtract number from result"""
+        self.result = self.result - value_a
         return self.result
-
-    # Division of numbers and exception for division by 0
-    def divide(self, num1_a, num2_b):
-        """ Function to divide two numbers """
-        self.num_a = num1_a
+    def multiply_numbers(self, value_a, value_b):
+        """ multiply two numbers and store the result"""
+        self.result = value_a * value_b
+        return self.result
+    def divide_numbers(self, value_a, value_b):
+        """ divide two numbers and store the result"""
+        self.result = value_a / value_b
         if num2_b <= 0:
             return "Error: A number cannot be divided by 0"
-        self.result = self.num_a / num2_b
-        return self.result
-
-    # Increment a number by 1
-    def increment(self, num1_a):
-        """ Function to increment a number by 1 """
-        self.num_a = num1_a
-        self.result = self.num_a + 1
         return self.result

@@ -1,6 +1,6 @@
 language: python
 python:
-  - "3.9"
+  - "3.9" 
 install:
   - pip install -r requirements.txt
 # command to run tests
@@ -9,5 +9,4 @@ script:
 
 branches:
   only:
-    - main
-    - development
+    - calc_part_2

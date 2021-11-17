@@ -3,5 +3,9 @@
 [![Build Status](https://app.travis-ci.com/aad84/calc2.svg?branch=calc_part_2)](https://app.travis-ci.com/aad84/calc2)
 
 
+## Author 
+Ayush Deshpande
+
+
 
 

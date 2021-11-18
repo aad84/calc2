@@ -1,13 +1,10 @@
-# Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/kaw393939/calc2.svg?branch=main)](https://app.travis-ci.com/kaw393939/calc2)
+# Calculator Assignment: Refactor Calculator
+[![Build Status](https://app.travis-ci.com/aad84/calc2.svg?branch=refactor_calc)](https://app.travis-ci.com/aad84/calc2)
 
-Run Pip Install
-pip install -r requirements.txt
+### Operations
+1. All static methods covered 
+2. Tuples used to pass multiple arguments
+3. Travis Badge attched 
 
-To run tests, Lint, and Coverage report use this command:
-
-pytest  --pylint --cov
-
-.pylintrc is the config for pylint
-.coveragerc is the config for coverage
-setup.py is a config file for pytest
+## Author 
+Ayush Deshpande

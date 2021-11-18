@@ -9,4 +9,3 @@ class Divide(Calculation):
         if self.value_b <= 0:
             return "Error"
         return self.value_a / self.value_b
-

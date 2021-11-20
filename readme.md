@@ -1,5 +1,6 @@
 # Calculator Assignment
 [![Build Status](https://app.travis-ci.com/aad84/calc2.svg?branch=main)](https://app.travis-ci.com/aad84/calc2)
+[![Coverage Status](https://coveralls.io/repos/github/aad84/calc2/badge.svg?branch=main)](https://coveralls.io/github/aad84/calc2?branch=main)
 
 
 Run Pip Install pip install -r requirements.txt

@@ -11,7 +11,8 @@
 
 ## Travis Build Screenshot
 <img width="1914" alt="cal_part_2 1" src="https://user-images.githubusercontent.com/90499269/142723088-e2e1c18c-a38b-43ba-ac69-b06d3e736118.png">
-<img width="1914" alt="cal_part_2 2" src="https://user-images.githubusercontent.com/90499269/142723114-c24aad01-8eba-4973-8cbb-0dd843a42b64.png">
+<img width="1037" alt="cal_part_2 2" src="https://user-images.githubusercontent.com/90499269/142723263-36d5a03d-f0a2-4678-a654-55c6600a2d26.png">
+
 
 
 ## Author 

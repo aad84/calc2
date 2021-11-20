@@ -9,6 +9,11 @@
 4. Test cases covered for every operations with 100% coverage
 5. fixtures used in the program
 
+## Travis Build Screenshot
+<img width="1914" alt="cal_part_2 1" src="https://user-images.githubusercontent.com/90499269/142723088-e2e1c18c-a38b-43ba-ac69-b06d3e736118.png">
+<img width="1914" alt="cal_part_2 2" src="https://user-images.githubusercontent.com/90499269/142723114-c24aad01-8eba-4973-8cbb-0dd843a42b64.png">
+
+
 ## Author 
 Ayush Deshpande
 

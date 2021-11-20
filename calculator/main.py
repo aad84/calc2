@@ -19,9 +19,11 @@ class Calculator:
         """ multiply two numbers and store the result"""
         self.result = value_a * value_b
         return self.result
-    def divide_numbers(self, value_a, value_b):
-        """ divide two numbers and store the result"""
-        self.result = value_a / value_b
-        if value_b <= 0:
-            return "Error: A number cannot be divided by 0"
-        return self.result
+    
+    def division(self, value_a, value_b):
+        #if b == 0:
+        try:
+            self.output = value_a/value_b
+            return self.result
+        except ZeroDivisionError as ex_div:
+            return ex_div

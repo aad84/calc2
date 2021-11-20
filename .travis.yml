@@ -11,5 +11,4 @@ branches:
   only:
     - main
     - development
-after_sucess:
-     - coveralls
+

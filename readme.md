@@ -10,8 +10,8 @@
 5. fixtures used in the program
 
 ## Travis Build Screenshot
-<img width="1914" alt="cal_part_2 1" src="https://user-images.githubusercontent.com/90499269/142723088-e2e1c18c-a38b-43ba-ac69-b06d3e736118.png">
-<img width="1037" alt="cal_part_2 2" src="https://user-images.githubusercontent.com/90499269/142723263-36d5a03d-f0a2-4678-a654-55c6600a2d26.png">
+<img width="800" alt="cal_part_2 1" src="https://user-images.githubusercontent.com/90499269/142723544-6bb082e8-303f-4c4a-a14d-ed906eb167be.png">
+<img width="981" alt="cal_part_2 2" src="https://user-images.githubusercontent.com/90499269/142723565-eff64268-596b-491e-baad-5d716dec5807.png">
 
 
 

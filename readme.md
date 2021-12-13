@@ -10,7 +10,6 @@ Writing to the log file - timestamp, action performed and the result for Additio
 
 Writing to the log file - timestamp, action performed and the result for Multiplication and Subtraction
 <img width="681" alt="FH 2 2" src="https://user-images.githubusercontent.com/90499269/145868662-a367b08b-4c1c-4394-b3ac-a0ad3f368a55.png">
-
 pylint test:
 <img width="872" alt="FH 3" src="https://user-images.githubusercontent.com/90499269/145869021-74070cd5-b56c-4f84-a41a-8246d9182a39.png">
 
